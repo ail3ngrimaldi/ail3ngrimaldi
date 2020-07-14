@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ailen Grimaldi, I'm currently learning in Henry, which is a new remote academy from Argentina. 
+My name is Ailen Grimaldi, I'm currently learning in Henry, which is a new remote academy from Argentina. 
 
 I'm looking for knowledge and a space where I can apply it and learn as much as possible.
 
