@@ -4,14 +4,20 @@ My name is Ailen Grimaldi, I've recently finished learning in Henry, which is a 
 
 I'm looking for knowledge and a space where I can apply it and learn as much as possible.
 
-If you want to contact me, feel free to reach out at ailengrimaldi1@gmail.com
+If you want to contact me, feel free to reach out at ailenrgrimaldi@gmail.com
 
 
 ### You can also connect with me:
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Ailen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> 
+<a href="https://www.linkedin.com/in/ailenrociogrimaldi/" > Check my profile </a>
+
+<img align="left" alt="Ailen | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/Ailen_Grimaldi" > Follow me! </a>
+
+<img align="left" alt="Ailen | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+   (I don't actually enjoy using Instagram so I won't link you there!)
 
 <br />
 
@@ -31,7 +37,6 @@ If you want to contact me, feel free to reach out at ailengrimaldi1@gmail.com
 <br />
 
 ----------
-
 <details>
   <summary>:zap: Github Stats</summary>
 
