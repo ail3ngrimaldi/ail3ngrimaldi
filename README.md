@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-My name is Ailen Grimaldi, I am a lawyer who likes to programming, I've mainly learned in Henry, which is a new remote academy from Argentina, but also but myself and with friends, just for fun.
+My name is Ailen Grimaldi, I am a lawyer who just realised she likes this world too, I've mainly learned in Henry, which is a new remote academy from Argentina, but also but myself and with friends, just for fun.
 
 I'm currently looking for a job, so if you have any position available you can just reach me out at ailenrgrimaldi@gmail.com
 
