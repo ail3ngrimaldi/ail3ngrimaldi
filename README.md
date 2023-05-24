@@ -1,8 +1,10 @@
 ### Hi there 👋 
 
-My name is Ailen Grimaldi, I am a lawyer who just realised she likes this world too, I've mainly learned in Henry, which is a new remote academy from Argentina, but also but myself and with friends, just for fun.
+I'm Ailen, a lawyer turned Frontend Junior developer with a passion for decentralized technologies and web3 projects. I honed my programming skills at Henry, a renowned remote academy from Argentina, and continue to expand my knowledge through self-guided learning, including my current focus on Rust.
 
-I'm currently looking for a job, so if you have any position available you can just reach me out at ailenrgrimaldi@gmail.com
+I thrive on collaborative teamwork and enjoy networking with individuals at all skill levels. If you're looking for a coding partner or have any exciting opportunities within the decentralized and web3 space, I'd love to connect!
+
+Feel free to reach out to me at ailenrgrimaldi@gmail.com. Let's build something amazing together!
 
 ### Languages and Tools:
 
