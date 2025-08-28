@@ -1,11 +1,8 @@
 ### Hi there 👋 
 
-I'm Ailen, a lawyer turned Frontend Junior developer with a passion for decentralized technologies and web3 projects. I honed my programming skills at Henry, a renowned remote academy from Argentina, and continue to expand my knowledge through self-guided learning, including my current focus on Rust.
+I'm Ailen, a lawyer turned Frontend Junior developer with a passion for decentralized technologies and web3 projects. I built my programming skills at Henry, a renowned remote academy from Argentina, and continue to expand my knowledge through self-guided learning, including my current focus on Rust.
 
-I thrive on collaborative teamwork and enjoy networking with individuals at all skill levels. If you're looking for a coding partner or have any exciting opportunities within the decentralized and web3 space, I'd love to connect!
-
-Feel free to reach out to me at ailenrgrimaldi@gmail.com. Let's build something amazing together!
-
+Feel free to reach out to me at ailenrgrimaldi@gmail.com for any blockchain project you have in mind. 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
